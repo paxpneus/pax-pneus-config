@@ -1,8 +1,7 @@
 {
   "banners": [
     { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner1.png" },
-    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner2.png" },
-    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner3.png" }
+    { "url": "https://raw.githubusercontent.com/vitosandrin/pax-pneus-config/refs/heads/main/banners/banner2.png" }
   ],
   "items": [
     { "title": "Pneu Aro 13", "price": 249 },
@@ -10,7 +9,6 @@
     { "title": "Pneu Aro 15", "price": 300 },
     { "title": "Pneu Aro 16", "price": 320 },
     { "title": "Pneu Aro 17", "price": 380 },
-    { "title": "Pneu Aro 18", "price": 399.99 },
-    { "title": "Pneu Aro 19", "price": 420.25 }
+    { "title": "Pneu Aro 18", "price": 379.99 }
   ]
 }
